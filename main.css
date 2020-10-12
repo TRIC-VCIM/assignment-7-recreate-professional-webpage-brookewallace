@@ -1,0 +1,119 @@
+.navbar {
+  align-items: center;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  align-items: center;
+  margin: 85px;
+  margin-top: 20px;
+  margin-bottom: 100px;
+  grid-gap: 20px;
+  font-family: 'Gothic A1', sans-serif;
+  text-decoration: underline;
+  font-weight: 300;
+}
+
+.cards img {
+  width: 350px;
+  height: 350px;
+}
+
+.section1 {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 10px;
+  font-family: 'Gothic A1', sans-serif;
+}
+
+.section1 img{
+  width: 1440px;
+  height: auto;
+  margin-top: 50px;
+}
+
+
+.section2 {
+  background-color: #d42919;
+  color: white;
+  width: 1450px;
+  height: 1550px;
+  align-content: center;
+  align-self: center;
+}
+
+.cards2 {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 20px;
+  align-items: center;
+  justify-content: center;
+}
+
+.cards2 img {
+  width: 650px;
+  height: 650px;
+}
+
+h4 {
+  font-family: 'Gothic A1', sans-serif;
+}
+
+.section1 h4 {
+  padding: 60px;
+}
+
+.section2 h2 {
+  padding: 40px 20px 20px;
+  font-family: 'Gothic A1', sans-serif;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.cards3 {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 20px;
+  align-items: center;
+  justify-content: center;
+}
+
+.cards3 img {
+  width: 650px;
+  height: 350px;
+}
+
+.section3 {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr;
+}
+
+.section3 img {
+  width: 350px;
+  height: 350px;
+}
+
+header{
+  text-align: center;
+  justify-content: center;
+  padding: 20px;
+  font-family: 'Gothic A1', sans-serif;
+  word-spacing: 10px;
+  color: black;
+}
+
+.section1 h1 {
+  font-family: 'Gothic A1', sans-serif;
+  color: red;
+  font-size: 50px;
+  margin-bottom: 10px;
+}
+
+p {
+  font-family: 'Gothic A1', sans-serif;
+}
